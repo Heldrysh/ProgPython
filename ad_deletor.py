@@ -1,6 +1,6 @@
 '''
 VERSION
-	0.1
+	1.0
 	Python3.8
 AUTHOR
 	Fuentes Mendez David Gregorio
