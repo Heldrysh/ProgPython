@@ -11,6 +11,7 @@ CATEGORY
 USAGE
 	Counts AT in genomic sequence
 ARGUMNETS
+      Formato tipo FASTA y ej
 SEE ALSO
 '''
 Valid=["a","A","t","T","c","C","g","G"]
